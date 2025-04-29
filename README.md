@@ -17,3 +17,5 @@ it reads user-item rating data from a CSV file (data.csv),calculates user simila
 then it generates top 3 recommended items for a given user (default user 4).The program also prints all users and items in the dataset for debugging.
 
 OUTPUT
+
+![Image](https://github.com/user-attachments/assets/5947a863-73e4-441d-8b40-a2e46ced1e7f)
